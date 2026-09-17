@@ -30,3 +30,7 @@ Vodenje dijakov skozi prvi resen raziskovalni proces. Od varne izbire teme do pi
 ### Pomoč pri zaključnem delu:
 
 Diskretno vodenje in mentorstvo iz ozadja vseh faz – od izbire zmagovalne teme (ki ne povzroča zastojev) do končne tiskane oblike.
+
+## Avtor
+
+Avtor tega repozitorija je spletna stran https://diplomska-magistrska.si
